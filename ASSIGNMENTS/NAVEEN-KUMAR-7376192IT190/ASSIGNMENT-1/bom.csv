@@ -1,6 +1,0 @@
-﻿Name,Quantity,Component
-"U1",1," Arduino Uno R3"
-"PIEZO1",1," Piezo"
-"PIR1",1,"-129.15745747471078 , -323.7231491307212 , -413.87348713571834  PIR Sensor"
-"U2",1," Temperature Sensor [TMP36]"
-"R1",1,"1 kΩ Resistor"
